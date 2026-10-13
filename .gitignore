@@ -1,0 +1,14 @@
+# Local development documentation and task materials
+/00_develop-docs/
+
+# macOS and local development files
+.DS_Store
+.local/
+.local-*/
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+coverage/
+*.log
